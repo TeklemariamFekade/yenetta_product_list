@@ -1,0 +1,32 @@
+#main_title
+{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-family: 500;
+}
+.box1 h2
+{
+ float: left;
+}
+.box1 button{
+    float:right;
+    margin: 10px;
+    
+}
+.container
+{
+    margin-top: 50px;
+}
+#copy_right
+{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-family: 500;
+   
+}
